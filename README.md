@@ -4,7 +4,7 @@ UEQ (short) in German
 This is a webform version of the User Experience Questionnaire (short) in German: http://www.ueq-online.org/.
 
 ## Prerequisites ##
-* Webserver with PHP and SQL
+* Webserver with PHP and MySQL database.
 
 ## Setup ##
 * Drop the files in a webserver's public folder

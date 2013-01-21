@@ -1,7 +1,7 @@
 UEQ (short) in German
 ===
 
-This is a webform version of the User Experience Questionnaire (short) in German: http://www.ueq-online.org/
+This is a webform version of the [User Experience Questionnaire][1] (short) in German
 
 ## Prerequisites ##
 * Webserver with PHP and MySQL database
@@ -16,5 +16,7 @@ This is a webform version of the User Experience Questionnaire (short) in German
 
 
 ## License ##
-* GNU GPL: <http://www.gnu.org/licenses/gpl.html>
+* [GNU GPL][2]
 
+[1]: http://www.gnu.org/licenses/gpl.html
+[2]: http://www.ueq-online.org/

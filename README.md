@@ -18,5 +18,5 @@ This is a webform version of the [User Experience Questionnaire][1] (short) in G
 ## License ##
 * [GNU GPL][2]
 
-[1]: http://www.gnu.org/licenses/gpl.html
-[2]: http://www.ueq-online.org/
+[1]: http://www.ueq-online.org/
+[2]: http://www.gnu.org/licenses/gpl.html

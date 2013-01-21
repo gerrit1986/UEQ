@@ -13,3 +13,8 @@ This is a webform version of the User Experience Questionnaire (short) in German
 
 ## Known Issues ##
 * Cookie for preventing multiple insertions does not seem to work reliably
+
+
+## License ##
+* GNU GPL: <http://www.gnu.org/licenses/gpl.html>
+

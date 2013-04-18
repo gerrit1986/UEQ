@@ -1,5 +1,6 @@
 <?php
 mb_internal_encoding('UTF-8');
+# set credentials for database
 $host = 'host';
 $user = 'user';
 $password = 'password';
@@ -12,7 +13,7 @@ unset($password);
 # check connection to database server
 if (!$con)
   {
-  die('Could not connect: ' . mysql_error());
+  die('Konnte die Verbindung nicht herstellen: ' . mysql_error());
   }
 
 # select database
@@ -29,7 +30,7 @@ $insertion = "INSERT INTO Answers (Item1, Item2, Item3, Item4, Item5, Item6, Ite
 
 if (!mysql_query($insertion, $con))
   {
-  die("Error while inserting: " . mysql_error() . " Error No.: ". mysql_errno());
+  die("Bei der Abgabe ist ein Fehler aufgetreten. " . mysql_error() . " Fehlernummer: ". mysql_errno());
   }
 
 # set cookie to prevent multiple submissions

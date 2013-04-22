@@ -8,7 +8,7 @@ This is a webform version of the [User Experience Questionnaire][1] (short) in G
 
 ## Setup ##
 * Drop the files in a webserver's public folder
-* Add `'host'`, `'user'`, `'password'` and `'database'` to insert.php (below `#set credentials for database`)
+* Add `'host'`, `'user'`, `'password'` and `'database'` to insert.php (below `# database credentials`)
 * Use and enjoy!
 
 ## Known Issues ##

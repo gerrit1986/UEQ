@@ -1,6 +1,6 @@
 <?php
 mb_internal_encoding('UTF-8');
-# set credentials for database
+# database credentials
 $host = 'host';
 $user = 'user';
 $password = 'password';

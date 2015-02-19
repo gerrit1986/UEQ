@@ -11,9 +11,11 @@ This is a webform version of the [User Experience Questionnaire][1] (short) in G
 * Add `'host'`, `'user'`, `'password'` and `'database'` to insert.php (below `# database credentials`)
 * Use and enjoy!
 
+## Todo ##
+* mysql() -> mysli() -> prepared statements
+
 ## Known Issues ##
 * Cookie for preventing multiple insertions does not seem to work reliably
-
 
 ## License ##
 * [GNU GPL][2]
